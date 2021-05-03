@@ -1,0 +1,30 @@
+lang: fr
+
+slug: ""
+
+metadata:
+  title: Accueil - Karima Delli
+  description: Bienvenue sur le site officiel de Karima Delli, députée européenne Greens/EFA depuis 2009 et présidente de la commission des transports et du tourisme. 
+
+hero: 
+  image:  
+    mobile: images/hero-mobile.jpg
+    tablet: images/hero-tablet.jpg
+    desktop: images/hero-desktop.jpg
+  button: 
+    title: Toutes nos campagnes
+    url: /mes-campagnes/
+  text: Karima Delli, Présidente de la commission Transport et Tourisme au Parlement européen, s’engage pour une Europe écologique et sociale
+
+logos:
+  - image: images/eelv.svg
+    title: EELV
+    url: https://eelv.fr/
+  - image: images/greens-efa.svg
+    title: Greens EFA
+    url: https://www.greens-efa.eu/
+
+slider:
+  button:
+    title: Me connaître
+    url: /me-connaitre/

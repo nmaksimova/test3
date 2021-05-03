@@ -1,0 +1,15 @@
+lang: fr
+
+logo:
+  url: /
+
+menu:
+  links: 
+    - title: Me connaître
+      url: /me-connaitre/
+    - title: Mes actualités
+      url: /mes-actualites/
+    - title: Mes campagnes
+      url: /mes-campagnes/
+    - title: Me contacter
+      url: /me-contacter/      

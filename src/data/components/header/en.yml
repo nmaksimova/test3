@@ -1,0 +1,13 @@
+lang: en
+
+logo:
+  url: /en/
+
+menu:
+  links: 
+    - title: Get to know me
+      url: /en/career/
+    - title: News
+      url: /en/news/
+    - title: Campaigns
+      url: /en/campaigns/

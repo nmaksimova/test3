@@ -1,0 +1,18 @@
+@import './variables.scss';
+@import '~bulma/bulma.sass';
+
+html {
+  font-size: 16px;
+  @media (min-width: $desktop) {
+    font-size: 17px;
+  }
+}
+
+button,
+textarea,
+input,
+select,
+a {
+ -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+ -webkit-tap-highlight-color: transparent;
+}

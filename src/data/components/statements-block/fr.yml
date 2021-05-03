@@ -1,0 +1,9 @@
+lang: fr
+
+title: Mes actualités
+text: Mes déclarations sur l’actualité nationale et européenne
+readMoreButtonTitle: En savoir plus
+statementsSlug: /mes-actualites/communiques/
+allButton: 
+  title: Voir tous les communiqués
+  url: /mes-actualites/communiques/

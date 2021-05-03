@@ -1,0 +1,23 @@
+@import './node_modules/bulma/sass/utilities/initial-variables.sass';
+@import './theme.scss';
+
+$primary: $office-green;
+$secondary: $fluorescent-orange;
+
+// global
+$family-sans-serif: $font-family-main;
+$body-background-color: $white;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+$text: $black;
+$radius: 0;
+$link: $office-green;
+
+// navbar
+$navbar-height: 4.7rem;
+$navbar-item-hover-background-color: transparent;
+
+// footer
+$footer-background-color: $office-green;
+$footer-color: $white;
+$footer-padding: 3rem 1.5rem;
